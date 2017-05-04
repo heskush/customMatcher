@@ -1,3 +1,1 @@
-This java project is kind of a workaround for avoiding Artificial Intelligence for chat bots that takes
-grocery orders and process chats in bulk instead of live processing. Further details of the workings 
-are mentioned in Order.java in source.
+This java project is kind of a workaround for avoiding ai based methods for chat bots that take grocery orders and process chats in bulk instead of live processing. Further details of the workings  are mentioned in Order.java in source. The method used is motivated by the concept of regular expressions.
